@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    print "holaaaa soy Angel Nava";
+    print "holaaaa soy Angel Nava, cambios en la rama feature1";
     return view('welcome');
 });
 
